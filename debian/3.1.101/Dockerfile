@@ -1,5 +1,3 @@
-ARG  VERSION=
-
 FROM mcr.microsoft.com/dotnet/core/sdk:3.1.101
 
 RUN apk update && apk add openjdk11-jre
