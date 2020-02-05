@@ -1,5 +1,5 @@
 # Dotnet Sonar Scanner
-SonarScanner docker image with all dependencies to analyze .NET Core projects/solutions
+This is the Git repo of the [DotnetSonarScanner docker image](https://hub.docker.com/r/wildstrategies/dotnetsonarscanner) which include all dependencies to analyze .NET Core projects/solutions
 
 ## Featured Tags
 All images are based on the [.NET Core SDK](https://hub.docker.com/_/microsoft-dotnet-core-sdk/) images published by Microsoft
